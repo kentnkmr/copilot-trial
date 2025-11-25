@@ -2,9 +2,14 @@
 
 [公式チュートリアル](https://moulongzhang.github.io/2025-Github-Copilot-Workshop/github-copilot-workshop/#0)を参照しつつ独自の拡張を行う
 
-### 変更点
+## 変更点
 
 1. Flask を FastAPI に変更
+
+## 実装結果
+
+<img width="1988" height="1117" alt="Image" src="https://github.com/user-attachments/assets/bfe33f6e-beae-413d-b514-1c563e91aa2d" />
+
 ## ローカル実行ガイド
 
 下記コマンドでローカル環境の仮想環境を作成し、依存を入れて uvicorn でサーバを起動できます。
