@@ -10,6 +10,10 @@
 
 <img width="1988" height="1117" alt="Image" src="https://github.com/user-attachments/assets/bfe33f6e-beae-413d-b514-1c563e91aa2d" />
 
+## 振り返り
+
+[Github Copilot ワークショップをやってみた](https://zenn.dev/kentnkmr/articles/519337374aba34)
+
 ## ローカル実行ガイド
 
 下記コマンドでローカル環境の仮想環境を作成し、依存を入れて uvicorn でサーバを起動できます。
